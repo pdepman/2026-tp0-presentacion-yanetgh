@@ -3,7 +3,7 @@
 * Alumna: Yanet Cintia GERÓNIMO HUALLPA  
 * Legajo: 222.348-0  
 
-![Image](https://github.com/user-attachments/assets/3cc82fe3-e0a4-43b3-89e0-e250634e0de7)
+![Image](https://github.com/user-attachments/assets/1b2ac77d-4ace-4aca-9893-41032c9172be)
 
 
 ## Breve descripción personal
