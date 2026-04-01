@@ -13,3 +13,9 @@ Soy Yanet Gerónimo. Cuando estaba cursando el último año del secundario tení
 Para seguir formándome, en 2017 inicié una Diplomatura Superior en Matemática Educativa en el Instituto Superior J. V. González, que completé al año siguiente. Desde chica no tuve problemas con las ciencias básicas. Tanto en el Profesorado como en la Diplomatura cursé materias relacionadas con la tecnología, la informática y el mundo de la programación. La ingeniería me quedó como una asignatura pendiente; por eso, en 2024 comencé a revisar planes de estudio y, teniendo en cuenta lo que había estudiado en los años anteriores, me convenció más y decidí empezar finalmente la carrera de Ingeniería en Sistemas de la Información en la UTN.
 
 Actualmente curso materias correspondientes a segundo y tercer año. Todo lo que vamos aprendiendo en las asignaturas específicas me resulta novedoso; me llama mucho la atención el avance y las aplicaciones de la tecnología y estoy entusiasmada por seguir aprendiendo y formándome en este segundo camino.
+
+## Datos cursiosos  
+---  
+Desde el año pasado retomé las clases libres de Natación. Por otro lado, entre mis hobbies está el voley y ver animes. Uno de mis favoritos por ejemplo es Fullmetal Alchemist:  
+
+![Image](https://github.com/pdepman/2026-tp0-presentacion-yanetgh/blob/main/FA.JPG)
