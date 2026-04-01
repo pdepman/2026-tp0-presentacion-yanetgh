@@ -3,7 +3,7 @@
 * Alumna: Yanet Cintia GERÓNIMO HUALLPA  
 * Legajo: 222.348-0  
 
-![-- Uploading "Foto de perfil.jpg"... --](https://github.com/pdepman/2026-tp0-presentacion-yanetgh/issues/2#issue-4183282487)
+![Image](https://github.com/user-attachments/assets/3cc82fe3-e0a4-43b3-89e0-e250634e0de7)
 
 
 ## Breve descripción personal
