@@ -14,6 +14,11 @@ Para seguir formándome, en 2017 inicié una Diplomatura Superior en Matemática
 
 Actualmente curso materias correspondientes a segundo y tercer año. Todo lo que vamos aprendiendo en las asignaturas específicas me resulta novedoso; me llama mucho la atención el avance y las aplicaciones de la tecnología y estoy entusiasmada por seguir aprendiendo y formándome en este segundo camino.
 
+### Títulos Académicos (sugerencia de un compañero):  
+- Profesorado en Disciplinas Industriales Matemática y Matemática Aplicada - INSPT UTN
+- Diplomatura Superior en Matemática Educativa - ISP "Dr. J.V. González"
+
+
 ## Datos cursiosos  
 ---  
 Desde el año pasado retomé las clases libres de Natación. Por otro lado, entre mis hobbies está el voley y ver animes. Uno de mis favoritos por ejemplo es Fullmetal Alchemist:  
