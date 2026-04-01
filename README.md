@@ -3,7 +3,7 @@
 * Alumna: Yanet Cintia GERÓNIMO HUALLPA  
 * Legajo: 222.348-0  
 
-
+<!-- Uploading "Foto de perfil.jpg"... -->
 
 
 ## Breve descripción personal
