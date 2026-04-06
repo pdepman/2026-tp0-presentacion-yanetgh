@@ -19,7 +19,7 @@ Actualmente curso materias correspondientes a segundo y tercer año. Todo lo que
 - Diplomatura Superior en Matemática Educativa - ISP "Dr. J.V. González"
 
 ---  
-## Datos cursiosos  
+## Datos curiosos  
  
 Desde el año pasado retomé las clases libres de Natación. Por otro lado, entre mis hobbies está el voley y ver animes. Uno de mis favoritos por ejemplo es Fullmetal Alchemist:  
 
